@@ -6,4 +6,4 @@ Team Uhhhhhhhh
 
 First Blood for The Poem of Knowledge
 
-This repo contains a basic archive of all the challenges and descriptions. 
+This repo contains a basic archive of all the challenges and descriptions. Some of the formatting might be slightly off.
