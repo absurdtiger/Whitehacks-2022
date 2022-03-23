@@ -6,6 +6,7 @@ Author: Ahmad Abdillah, Systems Engineer, CSA
 Difficulty: Medium
 
 Reverse engineer the executable file to obtain the password (in the format of the flag). Use a disassembler to understand how the program works.
+
 ---
 we did not manage to solve this
 # SOLUTION
