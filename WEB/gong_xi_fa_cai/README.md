@@ -1,7 +1,20 @@
 # gong_xi_fa_cai
+23 SOLVES 944 points
+
+# DESCRIPTION
+Author: Gladiator
+
+Difficulty: Easy
+
+We provided the configuration file for a webserver below. Can you access flag.txt?
+
+Challenge Access:
+http://challenges2.whitehacks.xyz:5888
+# solution
 
 When we first enter the website, we don't find much, and neither do we in the developer tools. However, we are given the configuration file for the website.
 
+```
     server {
       listen 80 default_server;
       listen [::]:80 default_server;
@@ -21,7 +34,7 @@ When we first enter the website, we don't find much, and neither do we in the de
         alias /var/www/html/images/;
       }
     }
-
+```
 What we see here is that there is a misconfiguration under
 
     location /images

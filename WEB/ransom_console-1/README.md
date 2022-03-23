@@ -1,4 +1,20 @@
 # ransom_console-1
+8 SOLVES 986 points
+
+# DESCRIPTION
+Author: Louis (l0j0)
+
+Difficulty: Medium
+
+Space Department has found a web server where Shadowcore, a group of ransomware operators providing Ransomware-as-a-Service in Planet X26-10EG, monitors their C2 server from.
+
+Challenge Access:
+http://challenges1.whitehacks.xyz:5001
+http://challenges2.whitehacks.xyz:5001
+
+Let's retrieve their SSH key from the home directory at /home/r4s0m_4d1m1n/flag.txt so that we can access their C2 Server directly.
+
+# SOLUTION
 
 When we enter this website, we see a login page. We don't get much info from developer tools either.
 
