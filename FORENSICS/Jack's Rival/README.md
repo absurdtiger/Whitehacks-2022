@@ -12,3 +12,5 @@ John was last seen competing to see who could outsing Freddie Mercury in a sopra
 ---
 # SOL
 use the zip2john utility to extract the hash and run john with the rockyou.txt wordlist. jumbo john didn't work on my local environment so I ran it in a kali vm.
+- this will give you the password as `myroomisblue`.
+- using the password on the text file in the zip will give you flag `WH2022{W3_wi11_w3_w1ll_r0cky0u}`

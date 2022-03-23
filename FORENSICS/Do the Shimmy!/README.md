@@ -14,3 +14,7 @@ Find the application, and we will be able to handle the rest!
 Flag is in the format: WH2022{absolute_path_of_executed_application}
 
 Note: Reuse the same file (memdump.mem) from "The Prompt Within"
+# Solution
+`vol.py memdump.mem --profile=<profile> timeliner | grep "2022-02-26 18:43:31 UTC+0000"`
+
+magic
