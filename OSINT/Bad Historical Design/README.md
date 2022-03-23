@@ -1,4 +1,16 @@
 # Bad Historical Design
+44 SOLVES 692 POINTS
+
+# DESCRIPTION
+Author: Hartanto
+
+Difficulty: Easy
+
+So, Lewis used to say to me that he had a website. I doubt there is anything there, but let's check it out.
+
+Site Link: https://lewischan0601.github.io
+
+# Solution
 
 When we click on the link, we see an empty website with not much information. However, we can see that the link to the webpage is `lewischan0601.github.io`.
 
