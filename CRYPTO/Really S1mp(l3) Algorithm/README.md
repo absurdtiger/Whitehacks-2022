@@ -1,4 +1,12 @@
-# Really S1mp(l3) Algorithm
+72 SOLVES 135 POINTS
+
+# DESCRIPTION
+Author: xbowery
+
+Difficulty: Easy
+
+Rumour has it that this algorithm originated from the Republic of South Africa!
+# SOLUTION
 
 ```
 git clone https://github.com/Ganapati/RsaCtfTool.git
