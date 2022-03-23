@@ -12,7 +12,7 @@ we did not manage to solve this
 # SOLUTION
 - ironically, you can solve this entire challenge in cyberchef.
 - while looking through the program on IDA, I found this odd base64 string: `elZFQVJbY1JWWg==`
-![oddpicture](./oddpicture.png)
+![oddstring](./oddstring.png)
 - after decoding the string, most people gave up since it looked like gibberish.
 ![step2](./step2.png)
 - some madlad used the cyberchef magic function and got the flag.
